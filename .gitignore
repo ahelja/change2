@@ -1,0 +1,31 @@
+# App
+dist
+dw.configs.json
+dw.configs.json.default
+dw.json
+
+# node.js
+node_modules
+
+# IDE
+.jshintrc
+.vscode/forms.d.ts
+
+# Static Files
+src/cartridges/app_configurator_3d/cartridge/static/default/css
+src/cartridges/app_configurator_3d/cartridge/static/default/js
+src/cartridges/app_configurator_3d/cartridge/static/default/images
+
+# Others
+lurch
+app_experiment
+assets_experiment
+*.zip
+.cpuprofile
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+**:Zone.Identifier
