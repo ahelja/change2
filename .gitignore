@@ -12,9 +12,9 @@ node_modules
 .vscode/forms.d.ts
 
 # Static Files
-src/cartridges/app_configurator_3d/cartridge/static/default/css
-src/cartridges/app_configurator_3d/cartridge/static/default/js
-src/cartridges/app_configurator_3d/cartridge/static/default/images
+cartridges/app_configurator_3d/cartridge/static/default/css
+cartridges/app_configurator_3d/cartridge/static/default/js
+cartridges/app_configurator_3d/cartridge/static/default/images
 
 # Others
 lurch
